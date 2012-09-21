@@ -25,7 +25,7 @@ public function something()
     $this->layout->canonical = 'http://yoursite.tld';
     $this->layout->keywords = 'yoursite, keywords, goes here';
     $this->layout->description = 'Description of your site.';
-    $this->layouts->robots = 'all';
+    $this->layout->robots = 'all';
 
     // css assets
     $this->layout->assets('css/style.css');
