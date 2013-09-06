@@ -3,8 +3,8 @@
  * Layout class for ci-layout library.
  *
  * @author Roumen Damianoff <roumen@dawebs.com>
- * @version 1.3
- * @link http://roumen.me/projects/ci-layout
+ * @version 1.4
+ * @link http://roumen.it/projects/ci-layout
  * @license http://opensource.org/licenses/mit-license.php MIT License
  */
 
